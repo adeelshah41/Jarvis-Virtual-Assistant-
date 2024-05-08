@@ -21,4 +21,6 @@ J.A.R.V.I.S (Just A Rather Very Intelligent System) is a virtual assistant imple
 - Run the main.py file to launch the application.
 - Interact with J.A.R.V.I.S by entering text commands or using voice input.
 
-## 
+## Requirements
+- Install all required libraries
+- generate apis that are required in code
